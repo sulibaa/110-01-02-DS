@@ -1,0 +1,36 @@
+	[Abort List]
+	OID	Delay	Abort
+[0]	111t0	6
+	[Abort List]
+	OID	Delay	Abort
+[2]	116t0	6
+	[Abort List]
+	OID	Delay	Abort
+[4]	298t0	6
+	[Abort List]
+	OID	Delay	Abort
+[6]	274t0	50
+	[Abort List]
+	OID	Delay	Abort
+[8]	122t0	250
+	[Abort List]
+	OID	Delay	Abort
+[10]	272t500	501
+	[Abort List]
+	OID	Delay	Abort
+[12]	103t0	601
+	[Abort List]
+	OID	Delay	Abort
+[14]	105t0	601
+	[Abort List]
+	OID	Delay	Abort
+[16]	107t0	603
+	[Abort List]
+	OID	Delay	Abort
+[18]	101t93	694
+	[Abort List]
+	OID	Delay	Abort
+[20]	0t0	0
+	[Timeout List]
+	OID	Delay	Abort
+[0]	231t7	694
